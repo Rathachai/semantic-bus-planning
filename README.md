@@ -6,7 +6,5 @@
 ## Presentation
 - https://docs.google.com/presentation/d/1qCtnNlPWEQuKtdDO3v-GULb42E94difnvI1-RysEdv0
 
-## (Temporary) Citation
-- Chawuthai, R., Kertkeidkachorn, N., Racharak, T. 
-_"Modelling an RDF Knowledge Graph with Transitivity and Symmetry for Bus Route Path Finding."_ 
-In: 6th Artificial Intelligence and Cloud Computing Conference. 2023.
+## Citation
+- Chawuthai, R., Kertkeidkachorn, N., & Racharak, T. (2023, December). Modelling an RDF Knowledge Graph with Transitivity and Symmetry for Bus Route Path Finding. In 2023 6th Artificial Intelligence and Cloud Computing Conference (AICCC) (pp. 126-134).
